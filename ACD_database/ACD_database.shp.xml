@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="fr"><Esri><CreaDate>20160107</CreaDate><CreaTime>15062000</CreaTime><SyncOnce>FALSE</SyncOnce><DataProperties><lineage><Process Name="Merge_3" ToolSource="C:\Programme\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Merge" Date="20090921" Time="155736" export="">Merge ACD_beta_version_September_2009_wo_Svalbard;Svalbard_ready "C:\Dokumente und Einstellungen\Hugues\Eigene Dateien\Work\ACD\ACD_october_2007_2\ACD_october_2007\ACD_GIS_files\ACD_september_2009.mdb\ACD" "seg_name Segment name true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,seg_name,-1,-1,Svalbard_ready,seg_name,-1,-1;seg_code Segment code true true false 4 Long 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,seg_code,-1,-1,Svalbard_ready,seg_code,-1,-1;ons_form Onshore form true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,ons_form,-1,-1,Svalbard_ready,ons_form,-1,-1;ons_com Onshore comment true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,ons_com,-1,-1,Svalbard_ready,ons_com,-1,-1;bak_form Backshore form true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,bak_form,-1,-1,Svalbard_ready,bak_form,-1,-1;bak_elev Backshore elevation true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,bak_elev,-1,-1,Svalbard_ready,bak_elev,-1,-1;bak_el_dq DQ Backshore elevation true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,bak_el_dq,-1,-1,Svalbard_ready,bak_el_dq,-1,-1;bak_mat1 Backshore material 1 true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,bak_mat1,-1,-1,Svalbard_ready,bak_mat1,-1,-1;bak_mat2 Backshore material 2 true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,bak_mat2,-1,-1,Svalbard_ready,bak_mat2,-1,-1;bak_com Backshore comment true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,bak_com,-1,-1,Svalbard_ready,bak_com,-1,-1;sho_form Shore form true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,sho_form,-1,-1,Svalbard_ready,sho_form,-1,-1;bea_form Beach form true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,bea_form,-1,-1,Svalbard_ready,bea_form,-1,-1;sho_mat1 Shore material 1 true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,sho_mat1,-1,-1,Svalbard_ready,sho_mat1,-1,-1;sho_mat2 Shore material 2 true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,sho_mat2,-1,-1,Svalbard_ready,sho_mat2,-1,-1;sho_com Shore comment true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,sho_com,-1,-1,Svalbard_ready,sho_com,-1,-1;dep_clos Depth closure true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,dep_clos,-1,-1,Svalbard_ready,dep_clos,-1,-1;iso_2m Distance 2m isobath true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,iso_2m,-1,-1,Svalbard_ready,iso_2m,-1,-1;iso_5m Distance 5m isobath true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,iso_5m,-1,-1,Svalbard_ready,iso_5m,-1,-1;iso_10m Distance 10m isobath true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,iso_10m,-1,-1,Svalbard_ready,iso_10m,-1,-1;iso_100m Distance 100m isobath true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,iso_100m,-1,-1,Svalbard_ready,iso_100m,-1,-1;off_mat Offshore material true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,off_mat,-1,-1,Svalbard_ready,off_mat,-1,-1;ice1 Ground ice 1 true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,ice1,-1,-1,Svalbard_ready,ice1,-1,-1;ice2 Ground ice 2 true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,ice2,-1,-1,Svalbard_ready,ice2,-1,-1;ice2_dq DQ Ground ice 2 true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,ice2_dq,-1,-1,Svalbard_ready,ice2_dq,-1,-1;ice_com Ground ice comment true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,ice_com,-1,-1,Svalbard_ready,ice_com,-1,-1;rate Coastal change rate true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,rate,-1,-1,Svalbard_ready,rate,-1,-1;rate_int Interval of observation true true false 50 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,rate_int,-1,-1,Svalbard_ready,rate_int,-1,-1;rate_dq DQ Coastal change rate true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,rate_dq,-1,-1,Svalbard_ready,rate_dq,-1,-1;dyn_proc Dynamic process true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,dyn_proc,-1,-1,Svalbard_ready,dyn_proc,-1,-1;bulk_den Dry bulk density true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,bulk_den,-1,-1,Svalbard_ready,bulk_den,-1,-1;bulkd_dq DQ Dry bulk density true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,bulkd_dq,-1,-1,Svalbard_ready,bulkd_dq,-1,-1;oc Organic carbon true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,oc,-1,-1,Svalbard_ready,oc,-1,-1;oc_dq DQ Organic carbon true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,oc_dq,-1,-1,Svalbard_ready,oc_dq,-1,-1;soc Soil organic carbon true true false 4 Float 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,soc,-1,-1,Svalbard_ready,soc,-1,-1;soc_dq DQ Soil organic carbon true true false 5 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,soc_dq,-1,-1,Svalbard_ready,soc_dq,-1,-1;sources Data sources (references) true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,sources,-1,-1,Svalbard_ready,sources,-1,-1;comments Comments true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,comments,-1,-1,Svalbard_ready,comments,-1,-1;com_dq Data quality (DQ) comments true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,com_dq,-1,-1,Svalbard_ready,com_dq,-1,-1;contact Primary contact person true true false 50 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,contact,-1,-1,Svalbard_ready,contact,-1,-1;mappers Mappers true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,mappers,-1,-1,Svalbard_ready,mappers,-1,-1;sea_name Regional sea name true true false 50 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,sea_name,-1,-1,Svalbard_ready,sea_name,-1,-1;sea_code Regional sea code true true false 4 Long 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,sea_code,-1,-1,Svalbard_ready,sea_code,-1,-1;seg_no Segment number true true false 4 Long 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,seg_no,-1,-1,Svalbard_ready,seg_no,-1,-1;old_no Old numbering system true true false 4 Long 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,old_no,-1,-1,Svalbard_ready,old_no,-1,-1;seg_com Segment comment true true false 100 Text 0 0 ,First,#,ACD_beta_version_September_2009_wo_Svalbard,seg_com,-1,-1,Svalbard_ready,seg_com,-1,-1"</Process></lineage><itemProps><itemName Sync="TRUE">ACD_database</itemName><imsContentType Sync="TRUE" export="False">002</imsContentType><nativeExtBox><westBL Sync="TRUE">-180.000000</westBL><eastBL Sync="TRUE">180.000000</eastBL><southBL Sync="TRUE">65.476550</southBL><northBL Sync="TRUE">83.247010</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemLocation><linkage Sync="TRUE">file://\\GEOPC4\C$\Users\bradosav\Google Drive\ACD\ACD\ForWebGIS\zip\ACD_database</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemSize Sync="TRUE">4.640</itemSize></itemProps><coordRef><type Sync="TRUE">Geographic</type><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn><csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits><peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_WGS_1984&amp;quot;,DATUM[&amp;quot;D_WGS_1984&amp;quot;,SPHEROID[&amp;quot;WGS_1984&amp;quot;,6378137.0,298.257223563]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4326]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.238&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.983152841195215e-009&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4326&lt;/WKID&gt;&lt;LatestWKID&gt;4326&lt;/LatestWKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml></coordRef><copyHistory><copy source="C:\Users\bradosav\Google Drive\ACD\ACD\ForWebGIS\ACD_database" dest="\\GEOPC4\C$\Users\bradosav\Google Drive\ACD\ACD\ForWebGIS\zip\ACD_database" date="20160107" time="15062000"></copy></copyHistory></DataProperties><SyncDate>20151208</SyncDate><SyncTime>14462100</SyncTime><ModDate>20151208</ModDate><ModTime>14462100</ModTime><scaleRange><minScale>50000000</minScale><maxScale>5000</maxScale></scaleRange><ArcGISFormat>1.0</ArcGISFormat><ArcGISProfile>ISO19139</ArcGISProfile><ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle></Esri><idinfo><citation><citeinfo><onlink Sync="TRUE">\\HOME-CF188DAB83\C$\Dokumente und Einstellungen\Hugues\Eigene Dateien\Work\ACD\GIS Data &amp; Maps\ACD_october_2007_2\ACD_october_2007\ACD_GIS_files\ACD.mdb</onlink><origin>REQUIRED: The name of an organization or individual that developed the data set.</origin><pubdate>REQUIRED: The date when the data set is published or otherwise made available for release.</pubdate><title Sync="TRUE">ACD</title><ftname Sync="TRUE">ACD</ftname><geoform Sync="TRUE">vector digital data</geoform></citeinfo></citation><native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.1.0.780</native><descript><langdata Sync="TRUE">fr</langdata><abstract>REQUIRED: A brief narrative summary of the data set.</abstract><purpose>REQUIRED: A summary of the intentions with which the data set was developed.</purpose></descript><timeperd><current>REQUIRED: The basis on which the time period of content information is determined.</current><timeinfo><sngdate><caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate></sngdate></timeinfo></timeperd><status><progress>REQUIRED: The state of the data set.</progress><update>REQUIRED: The frequency with which changes and additions are made to the data set after the initial data set is completed.</update></status><spdom><bounding><westbc Sync="TRUE">-180.000000</westbc><eastbc Sync="TRUE">180.000000</eastbc><northbc Sync="TRUE">83.247010</northbc><southbc Sync="TRUE">65.476550</southbc></bounding><lboundng><leftbc Sync="TRUE">-180.000000</leftbc><rightbc Sync="TRUE">180.000000</rightbc><bottombc Sync="TRUE">65.476550</bottombc><topbc Sync="TRUE">83.247010</topbc></lboundng></spdom><keywords><theme><themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt><themekey>REQUIRED: Common-use word or phrase used to describe the subject of the data set.</themekey></theme></keywords><accconst>REQUIRED: Restrictions and legal prerequisites for accessing the data set.</accconst><useconst>REQUIRED: Restrictions and legal prerequisites for using the data set after access is granted.</useconst><natvform Sync="TRUE">Personal GeoDatabase Feature Class</natvform></idinfo><dataqual><lineage><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\HOME-CF188DAB83\C$\Dokumente und Einstellungen\Hugues\Eigene Dateien\Work\ACD\ACD_october_2007_2\ACD_october_2007\ACD_GIS_files\ACD_september_2009.mdb</srcused><date Sync="TRUE">20091009</date><time Sync="TRUE">21294100</time></procstep></lineage></dataqual><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.2.3552</envirDesc><dataLang><languageCode Sync="FALSE" value="eng"/><countryCode value="USA" Sync="TRUE"/></dataLang><idCitation xmlns=""><resTitle Sync="FALSE">The ACD Classification of Arctic Coasts</resTitle><presForm xmlns=""><PresFormCd Sync="TRUE" value="005"/><fgdcGeoform>vector digital data</fgdcGeoform></presForm><citRespParty xmlns=""><rpIndName>Pier Paul Overduin</rpIndName><rpOrgName>Alfred Wegener Institute Potsdam</rpOrgName><rpPosName>Researcher</rpPosName><role><RoleCd value="007"/></role><rpCntInfo xmlns=""><cntAddress addressType="postal"><delPoint>Telegrafenberg A43</delPoint><city>Potsdam</city><adminArea>Brandenburg</adminArea><postCode>14473</postCode><eMailAdd>paul.overduin@awi.de</eMailAdd><country>DE</country></cntAddress><cntPhone><voiceNum tddtty="">+49-331-288-2113</voiceNum><faxNum>+49-331-288-2137</faxNum></cntPhone></rpCntInfo></citRespParty><citRespParty xmlns=""><rpIndName>Hugues Lantuit</rpIndName><rpOrgName>Alfred Wegener Institute for Polar and Marine Research, Research section Potsdam</rpOrgName><rpPosName>Researcher</rpPosName><role><RoleCd value="009"/></role><rpCntInfo xmlns=""><cntAddress addressType="physical"><delPoint>Telegrafenberg A43</delPoint><city>Potsdam</city><adminArea>Brandenburg</adminArea><postCode>14473</postCode><eMailAdd>Hugues.Lantuit@awi.de</eMailAdd><country>DE</country></cntAddress><cntPhone><voiceNum tddtty="">+49-331-288-2162</voiceNum><faxNum>+49-331-288-2137</faxNum></cntPhone></rpCntInfo></citRespParty><citRespParty xmlns=""><rpIndName>Boris Radosavljevic</rpIndName><rpOrgName>Alfred Wegener Institute for Polar and Marine Research, Research section Potsdam</rpOrgName><rpPosName>PhD Candidate</rpPosName><role><RoleCd value="002"/></role><rpCntInfo xmlns=""><cntAddress addressType=""><delPoint>Telegrafenberg A43</delPoint><city>Potsdam</city><adminArea>Brandenburg</adminArea><postCode>14473</postCode><eMailAdd>boris.radosavljevic@awi.de</eMailAdd><country>DE</country></cntAddress><cntPhone><voiceNum tddtty="">+49-331-288-2162</voiceNum><faxNum>+49-331-288-2137</faxNum></cntPhone></rpCntInfo></citRespParty><resAltTitle>The Arctic Coastal Dynamics Database</resAltTitle><date><createDate>2007-10-31T00:00:00</createDate><pubDate>2015-12-31T00:00:00</pubDate></date><resEd>1.0.20071031</resEd><otherCitDet>The database is described in:
+Lantuit , H., Overduin , P. P., Couture, N., Wetterich, S., Are, F., Atkinson, D,. Brown, J., Cherkashov, G., Drozdov, D., Forbes, D. L., Graves-gaylord, A., Grigoriev, M. N., Hubberten, H.-W., Jordan, J., Jorgenson, T., Odegard, R. S., Ogorodov, S., Pollard, W. H., Rachold, V., Sedenko, S., Solomon, S. Steenhuisen, F., Streletskaya, I., Vasiliev, A. (2012) The Arctic Coastal Dynamics database. A new classiﬁcation scheme and statistics on arctic permafrost coastlines. Estuaries and Coasts, 35, 383–400, DOI 10.1007/s12237-010-9362-6.</otherCitDet></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"/></spatRpType><dataExt xmlns=""><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-180</westBL><eastBL Sync="TRUE">180</eastBL><northBL Sync="TRUE">83.24701</northBL><southBL Sync="TRUE">65.47655</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-180</westBL><eastBL Sync="TRUE">180</eastBL><northBL Sync="TRUE">83.24701</northBL><southBL Sync="TRUE">65.47655</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><dataExt xmlns=""><geoEle xmlns=""><GeoBndBox esriExtentType="search"><exTypeCode Sync="TRUE">1</exTypeCode><westBL Sync="TRUE">-180.000000</westBL><eastBL Sync="TRUE">180.000000</eastBL><northBL Sync="TRUE">83.247010</northBL><southBL Sync="TRUE">65.476550</southBL></GeoBndBox></geoEle></dataExt><idPurp>An important outcome of Arctic Coastal Dynamics I was the segmentation and characterization of the entire circum-Arctic coastline by regional experts which is presented in this dataset. This dataset contains data on coastal morphology, composition, dominant processes, ground ice, and environmental forcing parameters such as wind speed, storm counts, melt season, and wave energy. A listing of the variables included in the coastal classification can be found in Appendix A of the ACD II Science and Implementation Plan (2006). This information is available for over 800 segments, covering the coastline of all eight regional seas of the Arctic Ocean. The length of individual segments is variable (median length is 38 km), and depends on classification parameters and data availability. The segmentation format is scalable, allowing the adoption of future digital coastlines and the integration of additional data at higher spatial resolution. An assessment of the data quality for the more important quantitative variables has just been completed and the data will be publicly released on an internet map server (IMS). The goal of the IMS will be to allow individual users to prepare their own maps displaying the region and variables of interest.</idPurp><idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P STYLE="text-align:Justify;font-style:italic;margin:0 0 0 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;The ACD classification of Arctic coasts&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="text-align:Justify;text-indent:12;margin:0 0 0 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;The ACD Classification was conceived as a broad enough framework to encompass existing classification schemes while capturing fundamental information for the assessment of climate change impacts and coastal processes. The implementation of the classification was done by so-called “regional experts”, who, based on digital and paper products and personal knowledge provided information which was subsequently gathered into a circum-Arctic coastal database. The classification was primarily geomorphological in nature and considered: (1) the shape or form of the subaerial part of the coastal tract, (2) the marine processes acting upon the coast, (3) the shape or the form of the subaqueous part of the coastal tract and (4) the lithofacies of the materials constituting the coastal zone&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;The beta version of the classification is made of 1331 segments each characterized by a series of geomorphological quantitative and qualitative variables. The classification is stored as an ISO 19115-compliant personal geodatabase and is therefore mappable in off-the-shelf Geographical Information Systems (GIS) &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Rachold, Volker, Feliks E. Are, David E. Atkinson, Georgy Cherkashov, und Steven M. Solomon. „Arctic coastal dynamics (ACD): an introduction“. Geo-Marine Letters 25, Nr. 2–3 (2005): 63–68.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Lantuit, Hugues, Pier Paul Overduin, N. Couture, und R. S. Ødegård. „Sensitivity of coastal erosion to ground ice contents: an Arctic-wide study based on the ACD classification of Arctic coasts“, 2008.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Lantuit, Hugues, P. Overduin, N. Couture, und R. Odegard. „Coastal erosion in the Arctic: the ACD high resolution classification of Arctic coasts“, 2008.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs><idCredit>Arctic Coastal Dynamics</idCredit><searchKeys><keyword>arctic</keyword><keyword>coastal erosion</keyword><keyword>ground ice</keyword><keyword>permafrost</keyword><keyword>ACD</keyword><keyword>arctic coastal dynamics</keyword></searchKeys><themeKeys xmlns=""><keyword>permafrost, coastal erosion, coastal geomorphology</keyword></themeKeys><placeKeys xmlns=""><keyword>Arctic</keyword></placeKeys><dataChar><CharSetCd value="004"/></dataChar><idPoC xmlns=""><rpIndName>Pier Paul Overduin</rpIndName><rpOrgName>Alfred Wegener Institute Potsdam</rpOrgName><rpPosName>Researcher</rpPosName><role><RoleCd value="007"/></role><rpCntInfo xmlns=""><cntAddress addressType="postal"><delPoint>Telegrafenberg A43</delPoint><city>Potsdam</city><adminArea>Brandenburg</adminArea><postCode>14473</postCode><eMailAdd>paul.overduin@awi.de</eMailAdd><country>DE</country></cntAddress><cntPhone><voiceNum tddtty="">+49-331-288-2113</voiceNum><faxNum>+49-331-288-2137</faxNum></cntPhone></rpCntInfo><displayName>Pier Paul Overduin</displayName></idPoC><resMaint xmlns=""><maintFreq><MaintFreqCd value="009"></MaintFreqCd></maintFreq></resMaint><tpCat><TopicCatCd value="004"/></tpCat><tpCat><TopicCatCd value="008"/></tpCat><tpCat><TopicCatCd value="014"/></tpCat></dataIdInfo><metainfo><langmeta Sync="TRUE">fr</langmeta><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metc><cntinfo><cntorgp><cntper>REQUIRED: The person responsible for the metadata information.</cntper><cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg></cntorgp><cntaddr><addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype><city>REQUIRED: The city of the address.</city><state>REQUIRED: The state or province of the address.</state><postal>REQUIRED: The ZIP or other postal code of the address.</postal></cntaddr><cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice></cntinfo></metc><metd Sync="TRUE">20100323</metd></metainfo><mdLang><languageCode Sync="FALSE" value="eng"/><countryCode value="USA" Sync="TRUE"/></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"/></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"/></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distinfo><resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo><spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf><esriterm Name="ACD_database"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">1314</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo><spref><horizsys><cordsysn><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph><geodetic><horizdn Sync="TRUE">D_WGS_1984</horizdn><ellips Sync="TRUE">WGS_1984</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257224</denflat></geodetic></horizsys><vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">0.000000</altres></altsys></vertdef></spref><refSysInfo><RefSystem dimension=""><refSysID xmlns=""><identCode Sync="TRUE" code="4326">GCS_WGS_1984</identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">8.2.6</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="ACD_database"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">1314</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><eainfo><detailed Name="ACD_database" xmlns=""><enttyp><enttypl Sync="TRUE">ACD_database</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">1314</enttypc><enttypd>Arctic Coastal Dynamics Database</enttypd><enttypds>ACD</enttypds></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">OBJECTID</attrlabl><attalias Sync="TRUE">OBJECTID</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">seg_name</attrlabl><attalias Sync="TRUE">seg_name</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>official or descriptive name </attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>This string field is a unique place name identifier supplied by the regional expert.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">seg_code</attrlabl><attalias Sync="TRUE">seg_code</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale><attrdef>2 digit regional sea code and 4 digit segment number  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>This value is a unique numeric identifier for each segment composed of sea code and segment number. </udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">ons_form</attrlabl><attalias Sync="TRUE">ons_form</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>onshore (direction landward from the sea)   
+delta=d
+lowland (&lt;10m)=l
+upland (10-500m)=u
+highland (&gt;500m)=h
+wetland=w  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>onshore (direction landward from the sea)   
+delta=d
+lowland (&lt;10m)=l
+upland (10-500m)=u
+highland (&gt;500m)=h
+wetland=w  </udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">ons_com</attrlabl><attalias Sync="TRUE">ons_com</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>additional text if necessary  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>Text describing the morphology of the onshore portion of the shoreface.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">bak_form</attrlabl><attalias Sync="TRUE">bak_form</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>backshore (upper part of the active beach above the normal reach of the tides, but affected by large waves occurring during a high water event)
+cliff=c
+slope=s
+flat=f
+ridged/terraced=r
+anthropogenic=a
+complicated=x  
+
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>backshore (upper part of the active beach above the normal reach of the tides, but affected by large waves occurring during a high water event)
+cliff=c
+slope=s
+flat=f
+ridged/terraced=r
+anthropogenic=a
+complicated=x  </udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">bak_elev</attrlabl><attalias Sync="TRUE">bak_elev</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>in metres  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>Backshore height given in meters (numeric)</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">bak_el_dq</attrlabl><attalias Sync="TRUE">bak_el_dq</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>data quality assessment for this field: high=h, medium=m, or low=l  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>Data quality assessment for this field: high=h, medium=m, or low=l  
+where high refers to multiple field measurements, medium to a single field measurement, and low to an estimate.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">bak_mat1</attrlabl><attalias Sync="TRUE">bak_mat1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>backshore material 1 
+lithified=l, unlithified=u  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">bak_mat2</attrlabl><attalias Sync="TRUE">bak_mat2</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>mud-dominated=m, sand-dominated=s, gravel-dominated=g, diamict=d, organic=o, mixtures= e.g mg, sg  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">bak_com</attrlabl><attalias Sync="TRUE">bak_com</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>text to be added if backshore_form=r or backshore_form=x  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">sho_form</attrlabl><attalias Sync="TRUE">sho_form</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>shore ( strip of ground bordering the sea which is alternately exposed, or covered by tides and/or waves)   
+
+beach=b
+shore terrace=t (created by the action of waves and shore currents, it may become land by uplifting of shore or lowering of the water)
+cliff=c
+complicated=x  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">bea_form</attrlabl><attalias Sync="TRUE">bea_form</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>(to be filled if shore_form=b) fringing=f, barrier=b, spit=s  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">sho_mat1</attrlabl><attalias Sync="TRUE">sho_mat1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>lithified=l, unlithified=u  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">sho_mat2</attrlabl><attalias Sync="TRUE">sho_mat2</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>mud-dominated=m, sand-dominated=s, gravel-dominated=g, diamict=d, organic=o, mixtures= e.g mg, sg  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">sho_com</attrlabl><attalias Sync="TRUE">sho_com</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>text to be added if shore_form = x  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">dep_clos</attrlabl><attalias Sync="TRUE">dep_clos</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>in metres, maximum storm wave base (i.e., point at which cross-shore sediment transport due to coastal processes becomes nil)  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">iso_2m</attrlabl><attalias Sync="TRUE">iso_2m</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>in metres  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">iso_5m</attrlabl><attalias Sync="TRUE">iso_5m</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>in metres  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">iso_10m</attrlabl><attalias Sync="TRUE">iso_10m</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>in metres  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">iso_100m</attrlabl><attalias Sync="TRUE">iso_100m</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>in metres  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">off_mat</attrlabl><attalias Sync="TRUE">off_mat</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>mud-dominated=m, sand-dominated=s, gravel-dominated=g, diamict=d, organic=o, mixtures= e.g mg, sg  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">ice1</attrlabl><attalias Sync="TRUE">ice1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>low (2-20%)=l, medium (20-50%)=m, high (&gt;50%)=h  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">ice2</attrlabl><attalias Sync="TRUE">ice2</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>low (2-20%)=l, medium (20-50%)=m, high (&gt;50%)=h  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">ice2_dq</attrlabl><attalias Sync="TRUE">ice2_dq</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>data quality assessment for this field: high=h, medium=m, or low=l  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>Data quality assessment for this field: high=h, medium=m, or low=l  
+where high refers to multiple field measurements, medium to a single field measurement, and low to an estimate.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">ice_com</attrlabl><attalias Sync="TRUE">ice_com</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>additional text to be added if ground ice template was filled out  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">rate</attrlabl><attalias Sync="TRUE">rate</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>in metres/year (erosion &lt; 0, accumulation &gt; 0)  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">rate_int</attrlabl><attalias Sync="TRUE">rate_int</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>years of observation (e.g. 1956-1999)  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">rate_dq</attrlabl><attalias Sync="TRUE">rate_dq</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>data quality assessment for this field: high=h, medium=m, or low=l  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>Data quality assessment for this field: high=h, medium=m, or low=l  
+where high refers to multiple field measurements, medium to a single field measurement, and low to an estimate.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">dyn_proc</attrlabl><attalias Sync="TRUE">dyn_proc</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>erosive=e, stable=s, accumulative=a (interpretation, only to be filled out if change rate is not available)  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">bulk_den</attrlabl><attalias Sync="TRUE">bulk_den</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>dry weight of material for a given field volume, in t/m3. If no data available use: clay=1.3, silt=1.5, sand=2, or mixtures, e.g. silty sand=1.8  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">bulkd_dq</attrlabl><attalias Sync="TRUE">bulkd_dq</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>data quality assessment for this field: high=h, medium=m, or low=l  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>Data quality assessment for this field: high=h, medium=m, or low=l  
+where high refers to multiple field measurements, medium to a single field measurement, and low to an estimate.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">oc</attrlabl><attalias Sync="TRUE">oc</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>% of organic carbon by weight for the total shoreface volume  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">oc_dq</attrlabl><attalias Sync="TRUE">oc_dq</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>data quality assessment for this field: high=h, medium=m, or low=l  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>Data quality assessment for this field: high=h, medium=m, or low=l  
+where high refers to multiple field measurements, medium to a single field measurement, and low to an estimate.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">soc</attrlabl><attalias Sync="TRUE">soc</attalias><attrtype Sync="TRUE">Single</attrtype><attwidth Sync="TRUE">13</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>amount of soil organic carbon in the top 1 metre of soil, in kg/m2  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">soc_dq</attrlabl><attalias Sync="TRUE">soc_dq</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>data quality assessment for this field: high=h, medium=m, or low=l  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>Data quality assessment for this field: high=h, medium=m, or low=l  
+where high refers to multiple field measurements, medium to a single field measurement, and low to an estimate.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">sources</attrlabl><attalias Sync="TRUE">sources</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>sources or references(citation) of information (i.e. published, unpublished observations or reports)  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">comments</attrlabl><attalias Sync="TRUE">comments</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>additional comments on classification, if any  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">com_dq</attrlabl><attalias Sync="TRUE">com_dq</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>additional comments on data quality, if any  
+</attrdef><attrdefs>ACD</attrdefs><attrdomv><udom>Data quality assessment for this field: high=h, medium=m, or low=l  
+where high refers to multiple field measurements, medium to a single field measurement, and low to an estimate.</udom></attrdomv></attr><attr xmlns=""><attrlabl Sync="TRUE">contact</attrlabl><attalias Sync="TRUE">contact</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>name, email  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">mappers</attrlabl><attalias Sync="TRUE">mappers</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>names of those who created and/or classified the segments  
+</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">sea_name</attrlabl><attalias Sync="TRUE">sea_name</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Regional sea name</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">sea_code</attrlabl><attalias Sync="TRUE">sea_code</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale><attrdef>10: Russian Chuckchi Sea west of the antemeridian
+11: Russian Chuckchi Sea east of the antemeridian
+12: American Chuckchi Sea
+20: American Beaufort Sea
+30: Canadian Beaufort Sea
+40: Greenland
+41: Canadian Archipelago
+50: Russian Barents Sea
+51: Svalbard
+52: Norwegian Barents Sea
+60: Kara Sea
+70: Laptev Sea
+80: East Siberian Sea</attrdef><attrdefs>ACD</attrdefs></attr><attr xmlns=""><attrlabl Sync="TRUE">seg_no</attrlabl><attalias Sync="TRUE">seg_no</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Numbering of segments following the convention:
+sea_code (2 digit field), seg_no (4 digit field)
+(yields 6 digit sehment number)</attrdef><attrdefs>ACD</attrdefs><attrmfrq>011</attrmfrq></attr><attr xmlns=""><attrlabl Sync="TRUE">old_no</attrlabl><attalias Sync="TRUE">old_no</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Segment numbering under prototype development numbering system.
+See seg_no for new numbering system, which integrates sea code and segment number.</attrdef><attrdefs>ACD</attrdefs><attrmfrq>011</attrmfrq></attr><attr xmlns=""><attrlabl Sync="TRUE">seg_com</attrlabl><attalias Sync="TRUE">seg_com</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Comments referring to the segmentation process, often used to identify the distinguishing characteristic, such as sediment grain size, differentiating segment from adjacent segments.</attrdef><attrdefs>ACD</attrdefs><attrmfrq>009</attrmfrq></attr><attr><attrlabl Sync="TRUE">Shape_Leng</attrlabl><attalias Sync="TRUE">Shape_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr xmlns=""><attrlabl Sync="TRUE">Shape_Area</attrlabl><attalias Sync="TRUE">Shape_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed></eainfo><mdDateSt Sync="TRUE">20151208</mdDateSt><Binary><Thumbnail><Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAEsASwDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACiiigAooooAKKKKACiiigAorF1zxhpnh/K3M++cf8ALvD8z9uo6Dg55Iz2rgtW+KWpXm0WUSae
+o5J4lYnnuRjHTtnjrWsacpbHJVxVKjpJ6nqF3fW9hGJLm4itoydoaZwoJ9Mnvwa5bUPihpFrkW4m
+vG2ZUom1d3OAS2CPrg9a8ouLma8maaeV55W+9JIxZjxjkmo66Y4ddTyamYzl8Csd3d/Fq+eQG2sb
+eGPHKzFpDn1yCvt2rAu/G+u3sYSTUZVUHd+5AjP5qAfwrDorZU4rZHDLE1p7yZZvNSu9Q2farqa5
+2Z2+dIX2564yeOg/Kq1eZfGz41W/wn0+1jhtVv8AV7zcYIHbCIoxl3xzjJwAOvPIxXB+Efih8X9c
+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</Data></Thumbnail></Binary><mdMaint xmlns=""><maintFreq><MaintFreqCd value="009"/></maintFreq></mdMaint><mdContact xmlns=""><rpIndName>Pier Paul Overduin</rpIndName><rpOrgName>Alfred Wegener Institute Potsdam</rpOrgName><rpPosName>Researcher</rpPosName><role><RoleCd value="007"/></role><rpCntInfo><cntAddress addressType="postal"><delPoint>Telegrafenberg A43</delPoint><city>Potsdam</city><adminArea>Brandenburg</adminArea><postCode>14473</postCode><eMailAdd>paul.overduin@awi.de</eMailAdd><country>DE</country></cntAddress><cntPhone><voiceNum tddtty="">+49-331-288-2113</voiceNum><faxNum>+49-331-288-2137</faxNum></cntPhone></rpCntInfo><displayName>Pier Paul Overduin</displayName></mdContact><dqInfo xmlns=""><dqScope><scpLvl><ScopeCd value="005"/></scpLvl></dqScope><dataLineage><statement>This database is the product of the Arctic Coastal Dyanmics project.  Its development is described in Lantuit et al. (2012) (see Citation).</statement></dataLineage></dqInfo><distInfo><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">4.640</transSize></distTranOps></distInfo></metadata>
